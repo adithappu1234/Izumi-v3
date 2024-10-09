@@ -30,7 +30,7 @@ module.exports = {
   CAPTION: process.env.CAPTION || "ᴍᴀᴅᴇ ʙʏ ᴀᴅɪᴛʜ",
   READ_MSG: toBool(process.env.READ_MSG),
   OWNER_NAME: process.env.OWNER_NAME || "ᴀᴅɪᴛʜ",
-  BOT_NAME: process.env.BOT_NAME || "ᴀᴅɪᴛʜ🧃🤍",
+  BOT_NAME: process.env.BOT_NAME || "ᴀᴅɪᴛʜ🤍",
   SUDO: process.env.SUDO || null,
   LANG: process.env.LANGUAGE === undefined ? 'EN' : process.env.LANGUAGE.toUpperCase(),
   STICKER_PACKNAME: process.env.STICKER_PACKNAME || "ᴀᴅɪᴛʜ,🤍",
